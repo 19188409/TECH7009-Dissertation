@@ -31,3 +31,5 @@ There are six python files that make up the final project; these are all disting
   * Run this file to produce the first ANN model for all variations of the dataset
 * final-nn2.py
   * Run this file to produce the second ANN model for all variations of the dataset
+
+The repository also contains the final .csv file which is for the main dataset with the columns being explained within the body of the final report. A second .csv file contains the data for the two days that the survey was conducted.
