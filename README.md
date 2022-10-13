@@ -9,7 +9,7 @@ This repository has been submitted alongside the final report for the dissertati
 
 The project utilises the following additional python libraries and modules:
 
-*keras
+Markup: *keras
 *sklearn
 *numpy
 *pandas
